@@ -16,7 +16,7 @@
     $subject = "You have a message from your Web Portfolio.";
 
     $logo = 'img/logo1.png';
-    $link = '#';
+    $link = 'https://sidsmav2000.github.io/SiddharthVangari/';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
